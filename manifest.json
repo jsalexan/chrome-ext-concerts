@@ -1,0 +1,11 @@
+{
+    "name": "Upcoming Seattle Concerts",
+    "version": "1.0.0",
+    "description": "This extension pulls all the upcoming Seattle concert dates for the next 30 days.",
+    "manifest_version": 3,
+    "author": "Jennifer Alexander",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Upcoming Seattle Concerts"
+    }
+}
