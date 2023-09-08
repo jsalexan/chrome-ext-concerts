@@ -1,5 +1,5 @@
 async function fetchData() {
-    const apiKey = 'e80b95076bmsha45acbf7c7c0d2cp1c74c9jsnddca0daf2fee';
+    const apiKey = 'e80c95076bmsha45acbf7c7c0d2cp1c74c9jsnddca0daf3fee';
     const apiHost = 'concerts-artists-events-tracker.p.rapidapi.com';
 
     const options = {
